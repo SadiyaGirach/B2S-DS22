@@ -1,0 +1,19 @@
+/* css = cascading style sheets */
+
+body {
+  background-color: bisque;
+}
+
+#exportPDF {
+  background-color: chocolate;
+  padding: 10px; /* inner padding */
+  margin: 10px; /* outerpadding*/
+  border-radius: 10%;
+}
+
+#powerpoint {
+  background-color: chocolate;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10%;
+}
